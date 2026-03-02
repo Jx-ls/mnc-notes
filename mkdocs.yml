@@ -1,0 +1,32 @@
+site_name: Math Notes
+
+repo_url: https://github.com/Jx-ls/mnc-notes
+repo_name: Jx-ls/mnc-notes
+
+theme: 
+  name: material
+  language: en
+  icon: 
+    logo: material/syllabary-katakana
+    repo: fontawesome/brands/git-alt
+  font: 
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.path
+    - navigation.footer
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
