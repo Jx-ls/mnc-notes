@@ -1,7 +1,7 @@
-# Mathematics and Computing Notes
-
+#
 <div align="center">
-<span><i>A hobby project to access my math notes anywhere and anytime.</i></span>
+<h1>Mathematics and Computing Notes</h1>
+<i>A hobby project to access my math notes anywhere and anytime.</i>
 <br>
 <br>
 <img src="https://img.shields.io/badge/Markdown-239120.svg?logo=markdown&style=flat-square">

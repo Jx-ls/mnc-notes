@@ -70,5 +70,5 @@ nav:
       - Special Matrices: MA11005/22.md
       - Quadratic Forms: MA11005/23.md
       - Eigen Values of special matrices: MA11005/24.md
-  - Modern Algebra: MA21202/index.md
-
+  - Modern Algebra: 
+    - Preface: MA21202/index.md
