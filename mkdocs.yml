@@ -6,6 +6,7 @@ repo_name: Jx-ls/mnc-notes
 theme: 
   name: material
   language: en
+  favicon: assets/favicon.png
   icon: 
     logo: material/syllabary-katakana
     repo: fontawesome/brands/git-alt
@@ -74,3 +75,4 @@ nav:
     - Preface: MA21202/index.md
     - Group Theory:
       - Preliminaries: MA21202/01.md
+      - Group: MA21202/02.md
