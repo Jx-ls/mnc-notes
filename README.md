@@ -25,7 +25,8 @@ I built this website to keep all my notes in one place, inspired by [walkccc/CLR
 - Cloudflare Pages
 
 ## Courses Covered
-- Linear Algebra
+- Linear Algebra (WIP)
+- Modern Algebra (WIP)
 
 ## Contributing
 This is a personal project, but suggestions and corrections are welcome.
