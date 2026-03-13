@@ -72,3 +72,5 @@ nav:
       - Eigen Values of special matrices: MA11005/24.md
   - Modern Algebra: 
     - Preface: MA21202/index.md
+    - Group Theory:
+      - Preliminaries: MA21202/01.md
