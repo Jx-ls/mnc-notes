@@ -29,4 +29,38 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
+        
+nav:
+  - Home: index.md
+  - Linear Algebra: 
+    - Preface: MA11005/index.md
+    - Foundations:
+      - Group, Field: MA11005/01.md
+      - Preliminary matrix operations: MA11005/02.md
+      - System of linear equations: MA11005/03.md
+      - Vector Space: MA11005/04.md
+      - Subspace: MA11005/05.md
+      - Linear span: MA11005/06.md
+      - Basis and Dimension of a vector space: MA11005/07.md
+      - Operations on subspaces of a vector space: MA11005/08.md
+    - Linear Transformations:
+      - Linear Transformation: MA11005/09.md
+      - Rank - Nullity Theorem: MA11005/10.md
+      - Change of Basis Matrix: MA11005/11.md
+      - Applications: MA11005/12.md
+    - Inner Product Spaces:
+      - Inner Product spaces: MA11005/13.md
+      - Cauchy - Schwarz inequality: MA11005/14.md
+      - Orthonormal Basis: MA11005/15.md
+      - Gram - Schmidt orthogonalization process: MA11005/16.md
+      - Orthogonal Complement of a subspace: MA11005/17.md
+    - Spectral Theory and Canonical Forms:
+      - Eigen Values and Vectors of linear operations and square matrices: MA11005/18.md
+      - Cayley - Hamilton Theorem: MA11005/19.md
+      - Minimal Polynomial: MA11005/20.md
+      - Jordan Canonical Fo: MA11005/21.md
+      - Special Matrices: MA11005/22.md
+      - Quadratic Forms: MA11005/23.md
+      - Eigen Values of special matrices: MA11005/24.md
+  - Modern Algebra: MA21202/index.md
 
